@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "686230a15b190e4e0ab9ce63"
+  },
+  "land_id": {
+    "$oid": "683ea7eb870448b2126c4bd3"
+  },
+  "acq_awd_id": "6344",
+  "provided": "No",
+  "consent": "Received",
+  "statement_1a_no": "Daldal",
+  "landowner_name": "रामबाई बेवा  रामसुंदर दलवीर सिंह अजमेर , सिह, सुमेर सिंह, नानकुनी उर्फ दिनेश लालसाय पिता रामसुन्दर गोंड",
+  "total_area_clubbed": "4.023",
+  "employments_generated": 2,
+  "employments_provided": 2,
+  "sanction_order_no": "1",
+  "person_employed": [
+    "S",
+    "P"
+  ],
+  "compensation_in_lieu": "78999",
+  "compensation_amount": "1",
+  "clubbed_with": [
+    {
+      "$oid": "683ea7eb870448b2126c4bd4"
+    },
+    {
+      "$oid": "683ea7eb870448b2126c4bd5"
+    },
+    {
+      "$oid": "684bcb172890223eca643122"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68636e31f91f9172f9874395"
+  },
+  "land_id": {
+    "$oid": "683ea7eb870448b2126c4bd4"
+  },
+  "acq_awd_id": "6345",
+  "provided": "No",
+  "consent": "Received",
+  "statement_1a_no": "Daldal",
+  "landowner_name": "रामबाई बेवा  रामसुंदर दलवीर सिंह अजमेर , सिह, सुमेर सिंह, नानकुनी उर्फ दिनेश लालसाय पिता रामसुन्दर गोंड",
+  "total_area_clubbed": "4.056",
+  "employments_generated": 2,
+  "employments_provided": 2,
+  "sanction_order_no": "2",
+  "person_employed": [
+    "S",
+    "P"
+  ],
+  "compensation_in_lieu": "",
+  "compensation_amount": "",
+  "clubbed_with": [
+    {
+      "$oid": "683ea7eb870448b2126c4bd5"
+    },
+    {
+      "$oid": "684bcb172890223eca643122"
+    },
+    {
+      "$oid": "684bcb3f2890223eca643125"
+    }
+  ],
+  "__v": 0
+}]
