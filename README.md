@@ -1,4 +1,4 @@
-# SECL Land Clubbing and Employment Management System 
+# SECL Land Clubbing and Employment Management System  
   
 This is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js) during my vocational training at South Eastern Coalfields Limited (SECL), Bilaspur. The project helps manage land acquisition records and automates employment distribution using a clubbing logic where landowners with insufficient land can combine holdings with others to become eligible for jobs.
 
