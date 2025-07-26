@@ -9,7 +9,7 @@ This is a full-stack web application built using the MERN stack (MongoDB, Expres
 - Auto-generated employment entries linked via `acq_awd_id`
 - RESTful backend APIs with MongoDB storage
 
-## 🛠 Tech Stack:
+## Tech Stack:
 - Frontend: React.js
 - Backend: Node.js + Express
 - Database: MongoDB
